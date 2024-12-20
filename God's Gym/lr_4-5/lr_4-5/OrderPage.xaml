@@ -1,0 +1,81 @@
+﻿<Window x:Class="lr_4_5.OrderPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lr_4_5"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Icon="{StaticResource AppIcon}"
+        Title="OrderPage" Height="700" Width="450">
+    <Grid Margin="0,0,0,-59">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Content="Записаться на тренировку" FontSize="30"
+               HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <TextBox Grid.Row="1" materialDesign:HintAssist.Hint="Введите ваш Email"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="15"
+                 Margin="7" Text="{Binding Email}" IsEnabled="{Binding IsEmailEnabled}"
+                 x:Name="emailTextBox"/>
+        <TextBox Grid.Row="2" materialDesign:HintAssist.Hint="Введите ваш номер телефона"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="15"
+                 Margin="7" 
+                 x:Name="phone_Number" IsEnabled="{Binding IsPhoneNumberEnabled}"/>
+        <ComboBox Grid.Row="3" FontSize="15" Margin="7"
+                  ItemsSource="{Binding Notify}" Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                  SelectedItem="{Binding SelectedNotification}" x:Name="notifyWay">
+            <ComboBox.ToolTip>
+                <ToolTip Style="{StaticResource MaterialDesignToolTip}">
+                    <StackPanel>
+                        <TextBlock Text="Выберите метод уведомлений"/>
+                    </StackPanel>
+                </ToolTip>
+            </ComboBox.ToolTip>
+            <materialDesign:HintAssist.Hint>Выберите метод уведомлений</materialDesign:HintAssist.Hint>
+        </ComboBox>
+
+        <ComboBox Grid.Row="4" FontSize="15" Margin="7"
+                  ItemsSource="{Binding Payment}" Style="{StaticResource MaterialDesignFloatingHintComboBox}">
+            <ComboBox.ToolTip>
+                <ToolTip Style="{StaticResource MaterialDesignToolTip}">
+                    <StackPanel>
+                        <TextBlock Text="Выберите метод оплаты"/>
+                    </StackPanel>
+                </ToolTip>
+            </ComboBox.ToolTip>
+            <materialDesign:HintAssist.Hint>Выберите метод оплаты</materialDesign:HintAssist.Hint>
+        </ComboBox>
+
+        <TextBox Grid.Row="5" x:Name="serviceName" Text="{Binding OfferName}" FontSize="15"
+                 Margin="7" IsReadOnly="True"/>
+        <Slider Grid.Row="6" Value="{Binding MyNumber, UpdateSourceTrigger=PropertyChanged}"
+                Minimum="1" Maximum="12" Margin="10" IsSnapToTickEnabled="True" TickFrequency="1"
+                x:Name="hours" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="7" x:Name="hour" Text="{Binding MyNumber}" Padding="10" Margin="10" FontSize="20"/>
+
+        <TextBox  Grid.Row="8" x:Name="dateStart" materialDesign:HintAssist.Hint="Введите дату посещения"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="15"
+                 Margin="7" />
+        <TextBox Grid.Row="9" x:Name="timeStart" materialDesign:HintAssist.Hint="Введите время посещения"
+                 Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="15"
+                 Margin="7" />
+        <StackPanel Grid.Row="10" Orientation="Horizontal" HorizontalAlignment="Center"/>
+
+        <Button Grid.Row="10" Content="Записаться" Click="SendMail" Margin="10,18,10,10"/>
+        <Button Content="Сейчас" Click="SetCurrentDateTime" Margin="312,7,10,20" Grid.Row="9" />
+
+
+    </Grid>
+</Window>

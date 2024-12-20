@@ -1,0 +1,72 @@
+﻿<Window x:Class="lr_4_5.UserAccountPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lr_4_5"
+        xmlns:input="using:Windows.UI.Xaml.Input"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Icon="{StaticResource AppIcon}"
+        Title="MainWindow" Height="700" Width="900">
+    <Window.Background>
+        <ImageBrush ImageSource="C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\images\img1.jpg"/>
+    </Window.Background>
+    <Grid>
+
+        <Border MinWidth="700" Background="AliceBlue" MaxWidth="800" Margin="15" VerticalAlignment="Center" MinHeight="600" >
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="Blue" />
+            </Border.Effect>
+
+            <StackPanel>
+                <Grid MinHeight="600">
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="30*"></RowDefinition>
+                        <RowDefinition Height="70*"></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition MaxWidth="150" MinWidth="10"></ColumnDefinition>
+                        <ColumnDefinition Width="Auto"></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Canvas x:Name="Canvas1" Grid.Column="0" Grid.Row="0" SizeChanged="Canvas_SizeChanged" >
+                        <Image x:Name="Avatar" Source="C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\images\ava.jpg" Width="100" Height="100" 
+                               HorizontalAlignment="Center" VerticalAlignment="Top" Canvas.Left="10" 
+                               Canvas.Top="10"/>
+                        <TextBlock x:Name="userPhoneNumber"  Width="Auto"
+                                       HorizontalAlignment="Center" VerticalAlignment="Bottom" Canvas.Left="10" Canvas.Top="142"/>
+
+                    </Canvas>
+                    <Grid Grid.Row="1" Grid.Column="0" Margin="5 0 0 10">
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="50*"/>
+                                <RowDefinition/>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Button Grid.Row="1" Content="Выйти" VerticalAlignment="Center" Margin="5" 
+                                Click="Log_out_Click"/>
+                            <Button  Grid.Row="2" Margin="5" Content="Блокировать" VerticalAlignment="Center"
+                                Click="Block_Account_Click"/>
+                        </Grid>
+                    </Grid>
+                    <GridSplitter Grid.Column="1" Grid.RowSpan="2" Width="3" 
+                                  HorizontalAlignment="Center" VerticalAlignment="Stretch" 
+                                  ShowsPreview="False"></GridSplitter>
+                    
+                    <Grid Margin="5 0 0 10" Grid.Column="2" Grid.RowSpan="2" >
+                        <ScrollViewer VerticalScrollBarVisibility="Visible">
+                            <DataGrid x:Name="dataGridView" AutoGenerateColumns="True" Loaded="DataGridView_Loaded"/>
+                        </ScrollViewer>
+                    </Grid>
+
+                </Grid>
+
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Window>

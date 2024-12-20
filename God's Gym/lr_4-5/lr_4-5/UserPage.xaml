@@ -1,0 +1,63 @@
+﻿<Window x:Class="lr_4_5.UserPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lr_4_5"
+        xmlns:input="using:Windows.UI.Xaml.Input"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Icon="{StaticResource AppIcon}"
+        Title="MainWindow" Height="700" Width="900">
+    <Window.Background>
+        <ImageBrush ImageSource="C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\images\img1.jpg"/>
+    </Window.Background>
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="85*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        
+        <Border Grid.Row="0" MinWidth="200" Background="AliceBlue" MaxWidth="350" Margin="15" VerticalAlignment="Center" MinHeight="300" CornerRadius="20" Padding="10">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="Blue" />
+            </Border.Effect>
+
+            <StackPanel>
+                <TextBlock Text="Аккаунты пользователей" FontSize="25" FontWeight="DemiBold" Margin="10 10 0 10" HorizontalAlignment="Center"/>
+
+                <ListView x:Name="usersList" MinHeight="250" MaxHeight="400" Margin="5" SelectionChanged="UserListSelectionChange">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <WrapPanel>
+                                <TextBlock Text="{Binding Phone_number}" />
+                            </WrapPanel>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                    <ListView.Resources>
+                        <Style TargetType="{x:Type ScrollBar}">
+                            <Setter Property="Background" Value="Transparent"/>
+                            <Setter Property="Foreground" Value="Gray"/>
+                        </Style>
+                    </ListView.Resources>
+                    <ListView.Template>
+                        <ControlTemplate TargetType="ListView">
+                            <Border BorderThickness="1" BorderBrush="Gray">
+                                <ScrollViewer VerticalScrollBarVisibility="Visible">
+                                    <ItemsPresenter/>
+                                </ScrollViewer>
+                            </Border>
+                        </ControlTemplate>
+                    </ListView.Template>
+                </ListView>
+
+            </StackPanel>
+        </Border>
+        <Border Grid.Row="1">
+            <StackPanel>
+                <Button Content="Назад" HorizontalAlignment="Center" Margin="10" Click="Back_Click" Width="350" MinHeight="40" Style="{StaticResource MaterialDesignRaisedButton}" Background="#9400D3" FontSize="20"></Button>
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

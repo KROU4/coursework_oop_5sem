@@ -1,0 +1,37 @@
+﻿<Window x:Class="lr_4_5.ReviewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lr_4_5"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Icon="{StaticResource AppIcon}"
+        Title="ReviewWindow" Height="350" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label Grid.Row="0" Content="Напишите отзыв!" HorizontalAlignment="Center"
+               VerticalAlignment="Center" FontSize="20"/>
+        <TextBox Grid.Row="1" materialDesign:HintAssist.Hint="Ваше имя"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="15"
+                 Margin="7" Text="{Binding UserName}" 
+                 x:Name="userName"/>
+        <TextBlock Grid.Row="2" Text="Ваша оценка" Margin="10 0 0 0"/>
+        <Slider Grid.Row="2" Value="{Binding MyNumber, UpdateSourceTrigger=PropertyChanged}"
+                Minimum="1" Maximum="5" Margin="10" IsSnapToTickEnabled="True" TickFrequency="1"
+                x:Name="ratingSlider" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="2" x:Name="rate" Text="{Binding MyNumber}" 
+                   Padding="10" Margin="10 -20" FontSize="20" VerticalAlignment="Bottom"/>
+        <TextBox Grid.Row="3" materialDesign:HintAssist.Hint="Ваш комментарий"
+                Style="{StaticResource MaterialDesignFloatingHintTextBox}" FontSize="15"
+                 Margin="7" Text="{Binding Comment}" 
+                 x:Name="comment"/>
+        <Button Grid.Row="4" Content="Отправить отзыв" Margin="5" Click="Review_Click"/>
+    </Grid>
+</Window>

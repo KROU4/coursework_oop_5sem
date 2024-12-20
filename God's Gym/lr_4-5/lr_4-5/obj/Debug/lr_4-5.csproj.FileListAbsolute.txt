@@ -1,0 +1,343 @@
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\lr_4-5.exe
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\MaterialDesignColors.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\EntityFramework.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\EntityFramework.SqlServer.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\Computer_club.db
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\lr_4-5.exe.config
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\EntityFramework.xml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\EntityFramework.SqlServer.xml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\MaterialDesignColors.pdb
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.xml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.AssemblyReference.cache
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.SuggestedBindingRedirects.cache
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\Authorization.g.cs
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\MainWindow.g.cs
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\UserPage.g.cs
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\App.g.cs
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5_MarkupCompile.cache
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5_MarkupCompile.lref
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\App.baml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\Authorization.baml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\MainWindow.baml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\UserPage.baml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5.g.resources
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4_5.Properties.Resources.resources
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.GenerateResource.cache
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.CoreCompileInputs.cache
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.CopyComplete
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5.exe
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5.pdb
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\lr_4-5.pdb
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Buffers.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Collections.Immutable.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Memory.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Numerics.Vectors.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\Uno.Diagnostics.Eventing.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\Uno.Fonts.Fluent.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\Uno.Foundation.Logging.dll
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Buffers.xml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Collections.Immutable.xml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Memory.xml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Numerics.Vectors.xml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\Uno.Diagnostics.Eventing.pdb
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\bin\Debug\Uno.Foundation.Logging.pdb
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\lr_4-5.exe.config
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\UserAccountPage.g.cs
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\UserAccountPage.baml
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotions.g.cs
+D:\Univer\4-th term\Labs C#\Lr4-5\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotions.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\lr_4-5.exe
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.SqlServer.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignColors.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\Computer_club.db
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\lr_4-5.exe.config
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Buffers.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Collections.Immutable.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Memory.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Numerics.Vectors.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\Uno.Diagnostics.Eventing.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\Uno.Fonts.Fluent.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\Uno.Foundation.Logging.dll
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.xml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.SqlServer.xml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignColors.pdb
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Buffers.xml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Collections.Immutable.xml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.xml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Memory.xml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Numerics.Vectors.xml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\Uno.Diagnostics.Eventing.pdb
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\Uno.Foundation.Logging.pdb
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.AssemblyReference.cache
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.SuggestedBindingRedirects.cache
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.exe.config
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\AdminAccount.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\Authorization.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\MainWindow.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotions.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotionsClient.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\OrderPage.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\UserAccountClient.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\UserAccountPage.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\UserPage.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\App.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5_MarkupCompile.cache
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5_MarkupCompile.lref
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\App.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\AdminAccount.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\Authorization.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\MainWindow.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotions.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotionsClient.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\OrderPage.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\UserAccountClient.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\UserAccountPage.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\UserPage.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.g.resources
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4_5.Properties.Resources.resources
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.GenerateResource.cache
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.CoreCompileInputs.cache
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.CopyComplete
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.exe
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.pdb
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\bin\Debug\lr_4-5.pdb
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\ReviewWindow.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\ReviewWindow.baml
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\ReviewPage.g.cs
+D:\Univer\4-th term\Term Project\lr_4-5\lr_4-5\obj\Debug\ReviewPage.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Computer_club.db
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\lr_4-5.exe.config
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\lr_4-5.exe
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\lr_4-5.pdb
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.SqlServer.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignColors.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Buffers.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Collections.Immutable.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.EF6.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.Linq.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Memory.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Numerics.Vectors.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Uno.Fonts.Fluent.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Uno.Foundation.Logging.dll
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.xml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.SqlServer.xml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignColors.pdb
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Buffers.xml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Collections.Immutable.xml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.xml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Memory.xml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Numerics.Vectors.xml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Uno.Foundation.Logging.pdb
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.AssemblyReference.cache
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.SuggestedBindingRedirects.cache
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.exe.config
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\AdminAccount.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\Authorization.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\MainWindow.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotions.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotionsClient.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OrderPage.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\ReviewPage.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\ReviewWindow.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserAccountClient.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserAccountPage.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserPage.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\App.g.cs
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5_MarkupCompile.cache
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5_MarkupCompile.lref
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\App.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\AdminAccount.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\Authorization.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\MainWindow.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotions.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotionsClient.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OrderPage.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\ReviewPage.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\ReviewWindow.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserAccountClient.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserAccountPage.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserPage.baml
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.g.resources
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4_5.Properties.Resources.resources
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.GenerateResource.cache
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.CoreCompileInputs.cache
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.CopyComplete
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.exe
+C:\WSpace\unik\Kursach\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.pdb
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Computer_club.db
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\lr_4-5.exe.config
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\lr_4-5.exe
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\lr_4-5.pdb
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignColors.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Buffers.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Memory.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.xml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Buffers.xml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.xml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Memory.xml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\bin\Debug\Uno.Foundation.Logging.pdb
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.AssemblyReference.cache
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.exe.config
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\AdminAccount.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\Authorization.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\MainWindow.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotions.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotionsClient.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OrderPage.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\ReviewPage.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\ReviewWindow.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserAccountClient.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserAccountPage.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserPage.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\App.g.cs
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5_MarkupCompile.cache
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5_MarkupCompile.lref
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\App.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\AdminAccount.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\Authorization.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\MainWindow.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotions.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotionsClient.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\OrderPage.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\ReviewPage.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\ReviewWindow.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserAccountClient.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserAccountPage.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\UserPage.baml
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.g.resources
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4_5.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.GenerateResource.cache
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.CopyComplete
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.exe
+C:\Users\Alexandr\Desktop\Cyber_X_Objected_oriented_programming_term_project\lr_4-5\lr_4-5\obj\Debug\lr_4-5.pdb
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\lr_4-5.exe.config
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\lr_4-5.exe
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\lr_4-5.pdb
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\EntityFramework.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\MaterialDesignColors.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Buffers.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Collections.Immutable.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Memory.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\EntityFramework.xml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\MaterialDesignColors.pdb
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Buffers.xml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Collections.Immutable.xml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Data.SQLite.xml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Memory.xml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\Uno.Foundation.Logging.pdb
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.AssemblyReference.cache
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5.exe.config
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\AdminAccount.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\Authorization.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\MainWindow.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotions.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotionsClient.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\OrderPage.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\ReviewPage.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\ReviewWindow.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\UserAccountClient.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\UserAccountPage.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\UserPage.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\App.g.cs
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5_MarkupCompile.cache
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5_MarkupCompile.lref
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\App.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\AdminAccount.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\Authorization.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\MainWindow.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotions.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\OffersAndPromotionsClient.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\OrderPage.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\ReviewPage.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\ReviewWindow.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\UserAccountClient.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\UserAccountPage.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\UserPage.baml
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5.g.resources
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4_5.Properties.Resources.resources
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.GenerateResource.cache
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.CoreCompileInputs.cache
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5.csproj.Up2Date
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5.exe
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\obj\Debug\lr_4-5.pdb
+C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\lr_4-5\bin\Debug\gym.db

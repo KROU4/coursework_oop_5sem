@@ -1,0 +1,505 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|c:\\users\\krou4\\yandexdisk\\\u0443\u043D\u0438\u043A\\\u043A\u0443\u0440\u0441\u0430\u0447 \u043E\u043E\u043F\\god\u0027s gym\\lr_4-5\\lr_4-5\\orderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\orderpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\orderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\orderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\mail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\authorization.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\reviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\reviewwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\reviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\reviewwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\reviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\reviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\reviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\reviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\useraccountclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\useraccountclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\useraccountclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\useraccountclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\useraccountpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\useraccountpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\userpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\adminaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\adminaccount.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\offersandpromotions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\offersandpromotions.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\offersandpromotionsclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\offersandpromotionsclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\offersandpromotionsclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\offersandpromotionsclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\offersandpromotions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\offersandpromotions.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\offer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\authorization.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\useraccountpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\useraccountpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718A2497-0623-4CD4-8914-1C0A20B9500D}|lr_4-5\\lr_4-5.csproj|solutionrelative:lr_4-5\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Order.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\Order.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Order.cs",
+              "RelativeToolTip": "lr_4-5\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\ReviewWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\ReviewWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\ReviewWindow.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\ReviewWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderPage.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OrderPage.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\OrderPage.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OrderPage.xaml",
+              "RelativeToolTip": "lr_4-5\\OrderPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewPage.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\ReviewPage.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\ReviewPage.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\ReviewPage.xaml",
+              "RelativeToolTip": "lr_4-5\\ReviewPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OrderPage.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\OrderPage.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OrderPage.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\OrderPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mail.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Mail.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\Mail.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Mail.cs",
+              "RelativeToolTip": "lr_4-5\\Mail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\ReviewPage.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\ReviewPage.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\ReviewPage.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\ReviewPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAccountClient.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserAccountClient.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\UserAccountClient.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserAccountClient.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\UserAccountClient.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Authorization.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Authorization.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\Authorization.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Authorization.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\Authorization.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:16:53.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\App.config",
+              "RelativeDocumentMoniker": "lr_4-5\\App.config",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\App.config",
+              "RelativeToolTip": "lr_4-5\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T18:05:16.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Review.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\Review.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Review.cs",
+              "RelativeToolTip": "lr_4-5\\Review.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\packages.config",
+              "RelativeDocumentMoniker": "lr_4-5\\packages.config",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\packages.config",
+              "RelativeToolTip": "lr_4-5\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T21:39:14.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserAccountPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserAccountPage.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\UserAccountPage.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserAccountPage.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\UserAccountPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReviewWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\ReviewWindow.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\ReviewWindow.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\ReviewWindow.xaml",
+              "RelativeToolTip": "lr_4-5\\ReviewWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserPage.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\UserPage.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserPage.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\UserPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserAccountClient.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserAccountClient.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\UserAccountClient.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserAccountClient.xaml",
+              "RelativeToolTip": "lr_4-5\\UserAccountClient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdminAccount.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\AdminAccount.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\AdminAccount.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\AdminAccount.xaml",
+              "RelativeToolTip": "lr_4-5\\AdminAccount.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OffersAndPromotions.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OffersAndPromotions.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\OffersAndPromotions.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OffersAndPromotions.xaml",
+              "RelativeToolTip": "lr_4-5\\OffersAndPromotions.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OffersAndPromotionsClient.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OffersAndPromotionsClient.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\OffersAndPromotionsClient.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OffersAndPromotionsClient.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\OffersAndPromotionsClient.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OffersAndPromotionsClient.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OffersAndPromotionsClient.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\OffersAndPromotionsClient.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OffersAndPromotionsClient.xaml",
+              "RelativeToolTip": "lr_4-5\\OffersAndPromotionsClient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OffersAndPromotions.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OffersAndPromotions.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\OffersAndPromotions.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\OffersAndPromotions.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\OffersAndPromotions.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Offer.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Offer.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\Offer.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Offer.cs",
+              "RelativeToolTip": "lr_4-5\\Offer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\MainWindow.xaml",
+              "RelativeToolTip": "lr_4-5\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Authorization.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Authorization.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\Authorization.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\Authorization.xaml",
+              "RelativeToolTip": "lr_4-5\\Authorization.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserAccountPage.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserAccountPage.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\UserAccountPage.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserAccountPage.xaml",
+              "RelativeToolTip": "lr_4-5\\UserAccountPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\App.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\App.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lr_4-5\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\App.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\App.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\App.xaml",
+              "RelativeToolTip": "lr_4-5\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserPage.xaml",
+              "RelativeDocumentMoniker": "lr_4-5\\UserPage.xaml",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\UserPage.xaml",
+              "RelativeToolTip": "lr_4-5\\UserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:05:16.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\ApplicationContext.cs",
+              "RelativeToolTip": "lr_4-5\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\User.cs",
+              "RelativeDocumentMoniker": "lr_4-5\\User.cs",
+              "ToolTip": "C:\\Users\\KROU4\\YandexDisk\\\u0423\u043D\u0438\u043A\\\u041A\u0443\u0440\u0441\u0430\u0447 \u041E\u041E\u041F\\God\u0027s Gym\\lr_4-5\\lr_4-5\\User.cs",
+              "RelativeToolTip": "lr_4-5\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:05:16.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

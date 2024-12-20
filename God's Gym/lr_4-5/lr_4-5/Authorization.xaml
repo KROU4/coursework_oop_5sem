@@ -1,0 +1,40 @@
+﻿<Window x:Class="lr_4_5.Authorization"
+       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:lr_4_5"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Icon="{StaticResource AppIcon}"
+        Title="MainWindow" Height="800" Width="1000">
+    <Window.Background>
+        <ImageBrush ImageSource="C:\Users\KROU4\YandexDisk\Уник\Курсач ООП\God's Gym\lr_4-5\images\img1.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Border MinWidth="200" Background="AliceBlue" MaxWidth="350" Margin="288,0,288,0" VerticalAlignment="Center" MinHeight="200" CornerRadius="20" Padding="10" Height="250" Cursor="Hand">
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="30" Color="Blue" />
+            </Border.Effect>
+
+            <StackPanel>
+                <TextBlock Text="Авторизация" FontSize="30
+                           " FontWeight="DemiBold" Margin="10 10 0 10" HorizontalAlignment="Center"/>
+
+                <Grid Margin="5 0 0 5">
+                    <Button HorizontalAlignment="Left" Content="Регистрация" Click="Button_Click_Sign_in" Style="{StaticResource MaterialDesignFlatButton}" Cursor="Hand"></Button>
+                    <Button HorizontalAlignment="Right" Content="Вход"></Button>
+                </Grid>
+
+                <TextBox x:Name="loginTextBox" materialDesign:HintAssist.Hint="Введите номер телефона" Style="{StaticResource MaterialDesignFloatingHintTextBox}" Margin="5 0 0 5"></TextBox>
+                <PasswordBox x:Name="passwordBox" materialDesign:HintAssist.Hint="Введлите пароль" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" Margin="5 0 0 5"></PasswordBox>
+
+                <Grid Margin="0 10 0 10">
+                    <Button Content="Авторизация" Click="Button_Auth_Click" Height="32" Width="332"/>
+                </Grid>
+
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Window>
